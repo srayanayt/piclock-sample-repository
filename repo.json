@@ -1,0 +1,21 @@
+{
+  "type": "piclock-app-repository",
+  "name": "Sample Apps",
+  "description": "Sample apps for PiClock.",
+  "author": "developer name",
+  "version": 1,
+  "apps": [
+    {
+      "name": "test 1",
+      "path": "test1/app.json"
+    },
+    {
+      "name": "test 2",
+      "path": "test2/app.json"
+    },
+    {
+      "name": "test 3",
+      "path": "test3/app.json"
+    }
+  ]
+}
